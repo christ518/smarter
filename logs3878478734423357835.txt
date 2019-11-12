@@ -1,0 +1,212 @@
+Market: Google Play
+Version: 2.6.1
+Version code: 11117
+Package name: com.coffeebeanventures.easyvoicerecorder
+Package installer: com.android.vending
+First installed on: August 6, 2019, 7:02 PM
+Last update time: August 6, 2019, 7:02 PM
+
+Hashcode: -1216919234
+Debuggable: false
+Dex checksum: 3252972002
+
+Board: msm8996
+Brand: samsung
+CPU ABI: [arm64-v8a, armeabi-v7a, armeabi]
+Device: heroqltespr
+Manufacturer: samsung
+Model: SM-G930P
+Product: heroqltespr
+Version codename: REL
+Version incremental: G930PVPSACSF1
+Version release: 8.0.0
+Version code: 26
+
+
+
+
+Audio input: MIC
+Uses Bluetooth: false
+Supports Bluetooth: true
+System Bluetooth enabled: false
+Stereo: false
+Sound encoding: AAC_MP4
+Sample rate: 16000
+MP4 file extension: MP4
+Gain: 0 dB
+Skip silence enabled: false
+Skip silence cutoff: 0 dB
+Supports automatic gain: false
+Automatic gain: FILTER_SYSTEM_DEFAULT
+Supports noise suppression: true
+Noise suppression: FILTER_SYSTEM_DEFAULT
+Supports acoustic echo cancellation: true
+Acoustic echo cancellation: FILTER_SYSTEM_DEFAULT
+Is auto-export configured: false
+File name template: My recording  /recording-count/   /time-fixed/   /date-fixed/ 
+Current folder: /storage/emulated/0/EasyVoiceRecorder
+Enable internal private storage: false
+View restricted folders: false
+File sorting: SortType{type=DATE, direction=DESCENDING}
+Theme: DARK
+Language: SYS_DEFAULT
+Screen orientation: AUTO
+Mark notifications as sensitive: false
+Status bar controls: false
+Individual notifications for recordings: false
+Keep awake while recording: CPU_ONLY
+Keep awake during playback: CPU_ONLY
+Check for audio loss: true
+Proximity sensor (recording): false
+Proximity sensor (playback): false
+Silence ringer while recording: false
+Pause recording when call answered (6.0+): false
+Using external player: false
+Pause for other apps: true
+Link to the app when sharing via email: true
+Force audio file type: true
+Share using content provider (<7.0): true
+Compress PCM files when sharing: TO_AAC_M4A
+Recording permission: true
+Storage permission: true
+Check if interrupted by phone call permission: false
+Save as ringtone permission: false
+
+
+*** BEGIN: LOG FILE ONE ***
+2019-08-30 18:17:05.066-0400  :  DEBUG: yo : *** Application onCreate() ***
+2019-08-30 18:17:05.176-0400  :  DEBUG: DD : No external storages detected from System.getenv("SECONDARY_STORAGE")
+2019-08-30 18:17:05.193-0400  :  DEBUG: DD : Reading /proc/mounts
+2019-08-30 18:17:05.250-0400  :  DEBUG: DD : Detected filesystems:
+2019-08-30 18:17:05.409-0400  :  DEBUG: Pq : Saving WAVE as default encoder
+2019-08-30 18:17:05.424-0400  :  DEBUG: Pq : Saving 16000 as default sample rate
+2019-08-30 18:17:05.430-0400  :  DEBUG: Pq : Saving dark_default as default theme
+2019-08-30 18:17:05.438-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 18:18:13.865-0400  :  DEBUG: yo : *** Application onCreate() ***
+2019-08-30 18:18:13.908-0400  :  DEBUG: DD : No external storages detected from System.getenv("SECONDARY_STORAGE")
+2019-08-30 18:18:13.908-0400  :  DEBUG: DD : Reading /proc/mounts
+2019-08-30 18:18:13.928-0400  :  DEBUG: DD : Detected filesystems:
+2019-08-30 18:18:14.018-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 18:18:45.207-0400  :  VERBOSE: kr : Configuration changed to en_US
+2019-08-30 18:18:46.680-0400  :  VERBOSE: kr : Configuration changed to en_US
+2019-08-30 18:19:21.971-0400  :  VERBOSE: kr : Configuration changed to en_US
+2019-08-30 18:19:23.196-0400  :  VERBOSE: kr : Configuration changed to en_US
+2019-08-30 20:23:58.688-0400  :  DEBUG: yo : *** Application onCreate() ***
+2019-08-30 20:23:58.713-0400  :  DEBUG: DD : No external storages detected from System.getenv("SECONDARY_STORAGE")
+2019-08-30 20:23:58.713-0400  :  DEBUG: DD : Reading /proc/mounts
+2019-08-30 20:23:58.718-0400  :  DEBUG: DD : Detected filesystems:
+2019-08-30 20:23:58.759-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:23:59.607-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:23:59.620-0400  :  INFO: GB : Pro version is not installed
+2019-08-30 20:23:59.839-0400  :  DEBUG: ot : Nothing to recover
+2019-08-30 20:23:59.863-0400  :  INFO: GB : Pro version is not installed
+2019-08-30 20:24:00.024-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.025-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.043-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.044-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.063-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.072-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.073-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.074-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.077-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.079-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.080-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.083-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.118-0400  :  INFO: Oq : Saving should_show_ads_key = true
+2019-08-30 20:24:00.119-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:00.125-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:00.126-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:00.139-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.142-0400  :  WARN: Xx$d : Could not list contents of folder /storage/emulated/0/EasyVoiceRecorder
+2019-08-30 20:24:00.669-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.672-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.675-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.676-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:00.705-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:08.664-0400  :  VERBOSE: com.digipom.easyvoicerecorder.service.ToggleRecordTileService : ToggleRecordTileService clicked: Starting recording
+2019-08-30 20:24:08.670-0400  :  VERBOSE: Ns : Recorder service launched with intent: com.coffeebeanventures.easyvoicerecorder.WIDGET_REQUESTS_START_RECORD_ACTION
+2019-08-30 20:24:08.673-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:08.675-0400  :  DEBUG: com.digipom.easyvoicerecorder.service.RecorderService : We need permission to start recording, so will launch main activity so that the user can accept permissions.
+2019-08-30 20:24:08.942-0400  :  INFO: GB : Pro version is not installed
+2019-08-30 20:24:08.995-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:08.995-0400  :  DEBUG: S : Requesting permissions [android.permission.RECORD_AUDIO, android.permission.WRITE_EXTERNAL_STORAGE]
+2019-08-30 20:24:09.323-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.324-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.324-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.326-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.333-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.334-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.336-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.338-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.340-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.341-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.342-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.344-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.367-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:09.369-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:09.370-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:09.375-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.381-0400  :  WARN: Xx$d : Could not list contents of folder /storage/emulated/0/EasyVoiceRecorder
+2019-08-30 20:24:09.478-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.478-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.479-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.479-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:09.534-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:11.727-0400  :  VERBOSE: com.digipom.easyvoicerecorder.service.ToggleRecordTileService : ToggleRecordTileService clicked: Starting recording
+2019-08-30 20:24:11.745-0400  :  VERBOSE: Ns : Recorder service launched with intent: com.coffeebeanventures.easyvoicerecorder.WIDGET_REQUESTS_START_RECORD_ACTION
+2019-08-30 20:24:11.752-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:11.752-0400  :  DEBUG: com.digipom.easyvoicerecorder.service.RecorderService : We need permission to start recording, so will launch main activity so that the user can accept permissions.
+2019-08-30 20:24:12.030-0400  :  INFO: GB : Pro version is not installed
+2019-08-30 20:24:12.061-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.063-0400  :  DEBUG: S : Requesting permissions [android.permission.RECORD_AUDIO, android.permission.WRITE_EXTERNAL_STORAGE]
+2019-08-30 20:24:12.158-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.172-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.181-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.181-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.182-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.184-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.192-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.193-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.200-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.202-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.207-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.209-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.253-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:12.255-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:12.258-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:24:12.269-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.295-0400  :  WARN: Xx$d : Could not list contents of folder /storage/emulated/0/EasyVoiceRecorder
+2019-08-30 20:24:12.501-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.501-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.587-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.587-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:12.588-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:20.429-0400  :  DEBUG: S : onRequestPermissionsResult: requestCode: 2, permission: android.permission.RECORD_AUDIO : granted
+2019-08-30 20:24:20.430-0400  :  DEBUG: S : onRequestPermissionsResult: requestCode: 2, permission: android.permission.WRITE_EXTERNAL_STORAGE : granted
+2019-08-30 20:24:20.430-0400  :  DEBUG: Oq : Default folder /storage/emulated/0/EasyVoiceRecorder does not exist: will try to create a new folder.
+2019-08-30 20:24:20.430-0400  :  DEBUG: Oq : Created new folder for recording: /storage/emulated/0/EasyVoiceRecorder. This folder will be configured to be hidden from the media scanner by default.
+2019-08-30 20:24:20.433-0400  :  DEBUG: CD : Created /storage/emulated/0/EasyVoiceRecorder/.nomedia; will remove old entries from the media store and resynchronize.
+2019-08-30 20:24:20.433-0400  :  VERBOSE: CD : Deleting from media store info for file: /storage/emulated/0/EasyVoiceRecorder
+2019-08-30 20:24:20.459-0400  :  VERBOSE: st : Get file for staging: /storage/emulated/0/EasyVoiceRecorder/My recording 1.wav
+2019-08-30 20:24:20.459-0400  :  VERBOSE: Oq : Staging file: /storage/emulated/0/EasyVoiceRecorder/My recording 1.wav
+2019-08-30 20:24:20.480-0400  :  DEBUG: com.digipom.easyvoicerecorder.service.RecorderService : Recording to My recording 1.wav
+2019-08-30 20:24:20.510-0400  :  DEBUG: com.digipom.easyvoicerecorder.service.RecorderService : Recording to My recording 1.wav
+2019-08-30 20:24:20.543-0400  :  DEBUG: Fn : AudioRecord initialized. Input mic: MIC, sample rate: 16000, channels config: MONO, bits per sample: 16, samples per second: 16000, minimum buffer size: 1280, configured buffer size: 10240
+2019-08-30 20:24:20.580-0400  :  DEBUG: Fn : About to start capturing audio. Configured buffer size (bytes): 10240, configured buffer size (samples): 5120, configured buffer size (ms): 320ms, samples per second: 16000, block read size (samples): 400, block read size (ms): 25
+2019-08-30 20:24:20.635-0400  :  VERBOSE: CD : Deleted from external media store info for file /storage/emulated/0/EasyVoiceRecorder, 0 items removed.
+2019-08-30 20:24:20.662-0400  :  VERBOSE: CD : Notified from internal media store info for file /storage/emulated/0/EasyVoiceRecorder, 0 items removed.
+2019-08-30 20:24:20.663-0400  :  VERBOSE: CD : Scanning /storage/emulated/0/EasyVoiceRecorder/.nomedia
+2019-08-30 20:24:20.676-0400  :  VERBOSE: CD : Scanning /storage/emulated/0/EasyVoiceRecorder/.nomedia
+2019-08-30 20:24:20.678-0400  :  VERBOSE: CD : Scanning /storage/emulated/0/EasyVoiceRecorder/My recording 1.wav
+2019-08-30 20:24:20.678-0400  :  VERBOSE: CD : Scanning /storage/emulated/0/EasyVoiceRecorder/My recording 1.wav
+2019-08-30 20:24:20.703-0400  :  VERBOSE: CD : Scanning /storage/emulated/0/EasyVoiceRecorder/.nomedia
+2019-08-30 20:24:20.713-0400  :  VERBOSE: CD : Scanning /storage/emulated/0/EasyVoiceRecorder/.nomedia
+2019-08-30 20:24:24.347-0400  :  VERBOSE: Oq : Unstaging file
+2019-08-30 20:24:24.380-0400  :  DEBUG: com.digipom.easyvoicerecorder.service.RecorderService : Recording stopped
+2019-08-30 20:24:24.408-0400  :  VERBOSE: CD : Scanning /storage/emulated/0/EasyVoiceRecorder/My recording 1.wav
+2019-08-30 20:24:24.411-0400  :  VERBOSE: CD : Scanning /storage/emulated/0/EasyVoiceRecorder/My recording 1.wav
+2019-08-30 20:24:25.970-0400  :  INFO: Oq : ShouldShowAds(): returning true
+2019-08-30 20:30:43.969-0400  :  VERBOSE: kr : Configuration changed to en_US
+2019-08-30 20:32:40.321-0400  :  VERBOSE: kr : Configuration changed to en_US
+*** END: LOG FILE ONE ***
+
